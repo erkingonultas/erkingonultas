@@ -2,7 +2,7 @@
 - 🏠 I'm a front-end developer from Istanbul, Turkiye.
 - 📜 I'm occupied with developing mobile applications. My primary language is Flutter. However, I also use ReactJs sometimes.
 - 👀 I’m interested in creative coding.
-- 🌱 I’m currently working on Meta Front-end Developer Certificate.
+- 🌱 I’m currently studying Meta Front-End Developer Professional Certificate Course.
 
 <!---
 erkingonultas/erkingonultas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
